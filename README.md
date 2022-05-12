@@ -108,4 +108,4 @@ I will probably will never be able to put this on the app store due to copyright
 ---
 
 ## Interests
-When I am not coding, I'm enjoy watching a Liverpool FC game, playing video games, or reading (probably The Lord of the Rings again).
+When I am not coding, I enjoy watching Liverpool FC games, playing video games, or reading (probably The Lord of the Rings again).
