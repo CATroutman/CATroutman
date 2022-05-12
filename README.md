@@ -42,7 +42,7 @@ now currently working on some freelance projects. My main project interests revo
 
 
 A simple place to store personal sermon/bible study notes for future reference.  
-[Visit the Site](sermonnotedb.com) (currently in Beta, but functional)
+[Visit the Site](https://sermonnotedb.com) (currently in Beta, but functional)
 
 ### **2. Vacation Countdown mobile app**
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -71,8 +71,8 @@ they will be visiting and a Countdown timer is displayed.
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-- [The Ascent Basecamp](theascentbasecamp.com)
-- [Ladies with Purpose](cbfladieswithpurpose.com)  
+- [The Ascent Basecamp](https://theascentbasecamp.com)
+- [Ladies with Purpose](https://cbfladieswithpurpose.com)  
 <img src="./theascentbasecamp.png" height="400">
 <img src="./cbfladieswithpurpose.png" height="400">  
 
