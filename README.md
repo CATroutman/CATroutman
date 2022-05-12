@@ -38,7 +38,10 @@ now currently working on some freelance projects. My main project interests revo
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="sermonnotedb.png" height="400">
+| SermonNoteDB Beta  |
+| ------------- |
+| <img src="sermonnotedb.png" height="400">  |
+
 
 
 A simple place to store personal sermon/bible study notes for future reference.  
@@ -81,7 +84,10 @@ they will be visiting and a Countdown timer is displayed.
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-<img src="./FreqOut.jpg" height="400">
+| Cumulative ***Freq***uency ***Out***lier Analysis  |
+| ------------- |
+| <img src="./FreqOut.jpg" height="400">  |
+
 
 [PDF Documentaion (Features and Purpose)](./FreqOutDocs.pdf)
 
@@ -94,8 +100,10 @@ they will be visiting and a Countdown timer is displayed.
 
 I will probably will never be able to put this on the app store due to copyrights, but it was a fun personal project.
 
+| The Office Quotes Home Page |
+| ------------- |
+| <img src="./officequotes.png" height="400">  |
 
-<img src="./officequotes.png" height="400">
 
 ---
 
