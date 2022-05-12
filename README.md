@@ -59,8 +59,9 @@ Articles Links from various Disney blogs are displayed to the user depending on 
 they will be visiting and a Countdown timer is displayed.
 - There are many more features to be added to this application, but this is just a start.
 
-<img src="./vacationcountdown0.png" height="400">
-<img src="./vacationcountdown1.png" height="400"> 
+| Home Page  | Menu |
+| ------------- | ------------- |
+| <img src="./vacationcountdown0.png" height="400">  | <img src="./vacationcountdown1.png" height="400">  |
 
 ---
 
@@ -71,10 +72,10 @@ they will be visiting and a Countdown timer is displayed.
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-- [The Ascent Basecamp](https://theascentbasecamp.com)
-- [Ladies with Purpose](https://cbfladieswithpurpose.com)  
-<img src="./theascentbasecamp.png" height="400">
-<img src="./cbfladieswithpurpose.png" height="400">  
+| [The Ascent Basecamp](https://theascentbasecamp.com)  | [Ladies with Purpose](https://cbfladieswithpurpose.com) |
+| ------------- | ------------- |
+| <img src="./theascentbasecamp.png" height="400">  | <img src="./cbfladieswithpurpose.png" height="400">   |
+ 
 
 ### **2. FreqOut (High Jump Stock Analysis Tool) - 2019**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
