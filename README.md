@@ -44,7 +44,7 @@ now currently working on some freelance projects. My main project interests revo
 
 
 
-A simple place to store personal sermon/bible study notes for future reference.  
+A simple place to store personal sermon/Bible study notes for future reference.  
 [Visit the Site](https://sermonnotedb.com) (currently in Beta, but functional)
 
 ### **2. Vacation Countdown mobile app**
@@ -58,8 +58,8 @@ A simple place to store personal sermon/bible study notes for future reference.
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 This is a mobile application for the hype leading up to a vaction (specifically Disney).  
-Articles Links from various Disney blogs are displayed to the user depending on which parks 
-they will be visiting and a Countdown timer is displayed.
+Article Links from various Disney blogs are displayed to the user depending on which parks 
+they will be visiting, and a Countdown timer is displayed.
 - There are many more features to be added to this application, but this is just a start.
 
 | Home Page  | Menu |
@@ -98,7 +98,7 @@ they will be visiting and a Countdown timer is displayed.
 
 **Every** Office quote in the show.
 
-I will probably will never be able to put this on the app store due to copyrights, but it was a fun personal project.
+I will probably never be able to put this on the app store due to copyrights, but it was a fun personal project.
 
 | The Office Quotes Home Page |
 | ------------- |
