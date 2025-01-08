@@ -1,7 +1,7 @@
 ## About Me
-Hi there 👋, I'm Cole. I'm a software developer from Houston, Texas. I studied Computer Science at Texas Tech University and then went on to get my Master's degree in
-Cyber Security from the University of Texas at San Antonio. After schooling, I worked for 2 years at a software development company called Reynolds and Reynolds. I am
-now currently working on some freelance projects. My main project interests revolve around church ministry.
+Hi there 👋, I'm Cole. I'm a software engineer from Houston, Texas. I studied Computer Science at Texas Tech University and then went on to get my Master's degree in
+Cyber Security from the University of Texas at San Antonio. After schooling, I worked for 2 years at a software development company called Reynolds and Reynolds and am currently working at Life.Church as a Software Engineer on the YouVersion Team.  
+My main project interests revolve around church ministry and helping my wife understand what I do.
 
 ---
 
